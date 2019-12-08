@@ -1,0 +1,29 @@
+<code_scheme name="Default" version="173">
+  <Objective-C>
+    <option name="INDENT_NAMESPACE_MEMBERS" value="2" />
+    <option name="INDENT_C_STRUCT_MEMBERS" value="2" />
+    <option name="INDENT_CLASS_MEMBERS" value="2" />
+    <option name="INDENT_INSIDE_CODE_BLOCK" value="2" />
+    <option name="SPACE_WITHIN_FUNCTION_DECLARATION_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_FUNCTION_CALL_PARENTHESES" value="true" />
+    <option name="SPACE_BEFORE_INIT_LIST" value="true" />
+    <option name="SPACE_AFTER_POINTER_IN_DECLARATION" value="true" />
+  </Objective-C>
+  <codeStyleSettings language="ObjectiveC">
+    <option name="SPACE_BEFORE_SEMICOLON" value="true" />
+    <option name="SPACE_WITHIN_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_IF_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_WHILE_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_FOR_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_CATCH_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_SWITCH_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_CAST_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_BRACKETS" value="true" />
+    <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
