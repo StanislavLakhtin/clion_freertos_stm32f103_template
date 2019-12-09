@@ -162,7 +162,7 @@ If you decide to use parts of the project, then this help may be useful to you.
     * bme280 - library and small driver for bme280 sensor
     * ow - my own OneWire library for atomic operations on USART
     * usb - implementation of the USB protocol stack
-    * tasks - task files
+    * tasks - tasks files
     * main.cpp
     * tools.c - procedures for initializing / using peripherals
 ```
