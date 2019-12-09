@@ -1,3 +1,7 @@
+# Note
+
+[Version for russian](./README_ru.md) speakers.
+
 # Intro
 
 Warning: I apologize for the possible mistakes: English is not my native language.
