@@ -4,8 +4,6 @@
 
 # Intro
 
-Warning: I apologize for the possible mistakes: English is not my native language.
-
 JetBrains CLion is a great tool for developing in C / C ++. But it's based on `cmake` and I had a problem when trying to use it for microcontroller project based on stm32F10X (Cortex-M3).
 
 For hobby purposes, I developed a small project that solves the following tasks:
