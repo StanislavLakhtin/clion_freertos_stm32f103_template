@@ -6,10 +6,10 @@ JetBrains CLion is a great tool for developing in C / C ++. But it's based on `c
 
 For hobby purposes, I developed a small project that solves the following tasks:
 
-• Building the [FreeRTOS](https://freertos.org/) project (10.2.x) + [libopencm3](https://github.com/libopencm3/libopencm3) in `cmake`
-• Implementation of the USB stack initialization mechanism
-• Implementation on the basis of [1] and [2] of the model for interviewing temperature sensors DS18B20 and BME280.
-• State management.
+- Building the [FreeRTOS](https://freertos.org/) project (10.2.x) + [libopencm3](https://github.com/libopencm3/libopencm3) in `cmake`
+- Implementation of the USB stack initialization mechanism
+- Implementation on the basis of [1] and [2] of the model for interviewing temperature sensors DS18B20 and BME280.
+- State management.
 
 The goal was to get a rational in terms of size, fast and convenient technological stack for various hobby tasks. I really like the libopencm3 project for its beauty, conciseness, precision and elegance.
 
