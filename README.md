@@ -29,4 +29,20 @@ An additional library was developed to solve these problems. That was able to co
 
 I post this project as a free user. I will be glad if my project is useful to anyone.
 
-I want to note that at the moment I am actively looking for work and, if you have a project in which I can be useful to you,  [mailto: sl@whiteants.net](mailto:sl@whiteants.net)
+I want to note that at the moment I am actively looking for work in that field and, if you have a project in which I can be useful, mail to: [sl@whiteants.net](mailto:sl@whiteants.net)
+
+## Usage example
+
+A few steps to get a working example.
+
+### Prerequisites
+
+You must have [JetBrains CLion](https://www.jetbrains.com/clion/) installed,
+
+Make sure you have [`arm-none-eabi-gdb`](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads) installed.
+
+### Setting
+
+After cloning the project, you will see something like this:
+
+![CLion](./resources/readme_src/img1.png)
