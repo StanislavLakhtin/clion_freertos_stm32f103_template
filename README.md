@@ -142,7 +142,7 @@ Scanning dependencies of target stm32f103_freertos.elf
 Build finished
 ```
 
-The project is assembled. You can flash into the controller.
+The project is assembled. You can flash it into the controller.
 
 For hobby purposes, I use brilliant [blackmagic probe](https://github.com/blacksphere/blackmagic/wiki). You can use the programmer that you like best.
 
